@@ -12,5 +12,29 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
+        <item name="android:textViewStyle">@style/Theme.HappyNY.TextView</item>
+
+
     </style>
+
+    <style name="Theme.HappyNY.TextView" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">@color/NY_green</item>
+        <item name="android:fontFamily">cursive</item>
+
+    </style>
+
+    <style name="Theme.HappyNY.Title.TextView" parent="Theme.HappyNY.TextView">
+        <item name="android:textSize">50sp</item>
+
+    </style>
+
+
+    <style name="Theme.NYButton" parent="Widget.MaterialComponents.Button">
+        <item name="android:textSize">17sp</item>
+
+
+    </style>
+
+    
 </resources>

@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/FirstApp/app/src/main/res/drawable-v24/outline_home_24.xml" value="0.37552083333333336" />
         <entry key="..\:/FirstApp/app/src/main/res/layout/activity_main.xml" value="0.30052083333333335" />
+        <entry key="..\:/FirstApp/app/src/main/res/layout/activity_second.xml" value="0.33489583333333334" />
       </map>
     </option>
   </component>

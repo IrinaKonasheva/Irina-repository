@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="good_morning" translatable="false">Доброе утро!</string>
+    <string name="hello" translatable="false">Привет!</string>
+    <string name="new_text" translatable="false">Новый текст</string>
+    <string name="random" translatable="false">Случайность</string>
+    <string name="next_activity" translatable="false">Новая активность</string>
+    <string name="bye">Пока</string>
+</resources>

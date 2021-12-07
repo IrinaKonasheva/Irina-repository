@@ -1,8 +1,18 @@
 <resources>
-    <string name="app_name">MyFirstApp</string>
+    <string name="app_name" translatable="false">MyFirstApp</string>
     <string name="good_morning">Good morning!</string>
-    <string name="button">button</string>
+    <string name="button" translatable="false">button</string>
     <string name="hello">Hello</string>
     <string name="bye">Bye</string>
     <string name="new_text">New_text</string>
+    <string name="random">Random</string>
+    <string name="next_activity">Next Activity</string>
+    <string name="home">Home</string>
+    <string name="next">next</string>
+    <string name="back">back</string>
+    <string name="a_happy_new_year_for_me">A happy New Year for me,</string>
+    <string name="a_happy_new_year_for_you">A happy New Year for you,</string>
+    <string name="a_happy_new_year_for_everyone">A happy New Year for everyone!</string>
+    <string name="that_s_what_i_wish_i_do">That’s what I wish – I do!</string>
+    <string name="happy_new_year">Happy new year!</string>
 </resources>
