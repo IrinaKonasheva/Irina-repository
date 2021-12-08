@@ -9,10 +9,24 @@
     <string name="next_activity">Next Activity</string>
     <string name="home">Home</string>
     <string name="next">next</string>
-    <string name="back">back</string>
+    <string name="back">Back</string>
     <string name="a_happy_new_year_for_me">A happy New Year for me,</string>
     <string name="a_happy_new_year_for_you">A happy New Year for you,</string>
     <string name="a_happy_new_year_for_everyone">A happy New Year for everyone!</string>
     <string name="that_s_what_i_wish_i_do">That’s what I wish – I do!</string>
     <string name="happy_new_year">Happy new year!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_fragments">My fragments</string>
+    <string name="switch_fragments_button">Switch fragments button</string>
+    <string name="start_fragment">Start fragment</string>
+    <string name="end_fragment">End fragment</string>
+    <string name="first_fragment">First fragment</string>
+    <string name="second_fragment">Second fragment</string>
+    <string name="first">First</string>
+    <string name="second">Second</string>
+    <string name="forward">Forward</string>
+    <string name="earth">Earth</string>
+    <string name="moon">Moon</string>
+
 </resources>

@@ -9,4 +9,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="green">#47A84B</color>
     <color name="NY_green">#1A713C</color>
+    <color name="burgundy">#510D24</color>
+    <color name="blue">#081C59</color>
+
 </resources>
